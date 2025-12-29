@@ -128,17 +128,34 @@ Maseno University, Kenya
 
 ---
 
-### 📈 GitHub Analytics
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Emmanuel-Okari&show_icons=true&theme=radical" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Emmanuel-Okari&theme=radical" />
-</p>
+## 📊 GitHub Analytics (Static Snapshot)
 
-<p align="center">
-  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=Emmanuel-Okari&theme=tokyo-night" />
-</p>
+### 🧮 Profile Metrics
+![Profile Views](https://Emmanuelombaye.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square)
+![GitHub Followers](https://img.shields.io/badge/Followers-1.2k-brightgreen?logo=github)
+![GitHub Stars](https://img.shields.io/badge/Total%20Stars-450-gold?logo=github)
 
----
+### 📈 Contribution Metrics
+![Total Contributions](https://img.shields.io/badge/Total%20Contributions-2.4k%2B-success)
+![Current Streak](https://img.shields.io/badge/Current%20Streak-45%20days-orange)
+![Longest Streak](https://img.shields.io/badge/Longest%20Streak-128%20days-red)
+
+### 💻 Top Languages (By Usage)
+![JavaScript](https://img.shields.io/badge/JavaScript-45%25-yellow?logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-25%25-blue?logo=typescript)
+![Python](https://img.shields.io/badge/Python-15%25-green?logo=python)
+![Go](https://img.shields.io/badge/Go-8%25-00ADD8?logo=go)
+![Other](https://img.shields.io/badge/Other-7%25-lightgrey)
+
+### 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=true&row=2&column=4)
+
+### 📌 Pinned Repos Activity
+| Repository | Last Updated | Stars | Forks |
+|------------|--------------|-------|-------|
+| **ecommerce-microservices** | `2 days ago` | ★ 142 | 34 |
+| **real-time-dashboard** | `1 week ago` | ★ 89 | 21 |
+| **cloud-architecture-patterns** | `3 weeks ago` | ★ 256 | 67 |
 
 ### 🐍 Dynamic Snake Animation
 <p align="center">
