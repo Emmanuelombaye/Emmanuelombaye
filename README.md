@@ -170,6 +170,28 @@ Maseno University, Kenya
 | **cloud-architecture-patterns** | `3 weeks ago` | ★ 256 | 67 |
 
 ### 🐍 Activity Tracker
-<p align="center"> <div style="position: relative; background: #0d1117; padding: 20px; border-radius: 8px;"> <!-- Grid Background --> <div style="display: grid; grid-template-columns: repeat(53, 1fr); gap: 3px; width: 100%; height: 120px;"> <!-- Generate 371 squares with varying intensities --> <div style="background: #161b22; border-radius: 2px;"></div> <div style="background: #0e4429; border-radius: 2px;"></div> <div style="background: #006d32; border-radius: 2px;"></div> <div style="background: #26a641; border-radius: 2px;"></div> <div style="background: #39d353; border-radius: 2px;"></div> </div> <!-- Animated Scan Line --> <div style="position: absolute; top: 0; left: 0; width: 100%; height: 2px; background: linear-gradient(90deg, transparent, #2ea043, transparent); animation: scan 4s ease-in-out infinite;"></div> </div> </p><style> @keyframes scan { 0% { top: 0; opacity: 0.3; } 50% { top: 100%; opacity: 0.8; } 100% { top: 0; opacity: 0.3; } } </style>
+<p align="center">
+  <div style="position: relative; background: #0d1117; padding: 20px; border-radius: 8px; overflow: hidden;">
+    <!-- Grid Background -->
+    <div style="display: grid; grid-template-columns: repeat(53, 1fr); gap: 3px; width: 100%; height: 120px;">
+      <!-- Minimal grid pattern -->
+      <div style="background: #161b22; border-radius: 2px;"></div>
+      <div style="background: #0e4429; border-radius: 2px;"></div>
+      <div style="background: #006d32; border-radius: 2px;"></div>
+      <div style="background: #26a641; border-radius: 2px;"></div>
+      <div style="background: #39d353; border-radius: 2px;"></div>
+      <!-- Repeat more squares as needed -->
+    </div>
+    <!-- Animated Scan Line -->
+    <div style="position: absolute; top: 0; left: 0; width: 100%; height: 2px; background: linear-gradient(90deg, transparent, #2ea043, transparent); animation: scan 4s ease-in-out infinite;"></div>
+  </div>
+</p>
 
+<style>
+  @keyframes scan {
+    0% { top: 0; opacity: 0.3; }
+    50% { top: 100%; opacity: 0.8; }
+    100% { top: 0; opacity: 0.3; }
+  }
+</style>
 ⭐ **"Building the future, one line of code at a time."**
