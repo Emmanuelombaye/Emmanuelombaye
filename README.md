@@ -1,8 +1,9 @@
 <!-- Dynamic GitHub Profile for Emmanuel Okari -->
 
-<!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Emmanuel-Okari/Emmanuel-Okari/main/A_digital_graphic_design_banner_features_Emmanuel_.png" alt="Emmanuel Okari Banner" width="100%" />
+  <div style="position: relative; width: 100%; height: 250px; background: linear-gradient(90deg, #1a2980, #26d0ce); display: flex; align-items: center; justify-content: center;">
+    <h1 style="color: white; font-size: 2.5rem; font-family: 'Segoe UI', sans-serif;">👨‍💻 Senior Full-Stack Developer</h1>
+  </div>
 </p>
 
 <!-- Typing Intro -->
