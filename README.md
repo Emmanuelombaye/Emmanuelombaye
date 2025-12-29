@@ -82,16 +82,32 @@ When I’m not coding, you’ll find me learning new frameworks, freelancing on 
 ### 🎓 Education
 
 **🎓 Bachelor of Science in Computer Science**  
-Maseno University, Kenya — *Graduated: 2025*  
+Maseno University, Kenya  
 - Specialization: Software Development, AI & Data Science  
-- Projects: Incident Reporting System, Portfolio Builder, ML-based Classifier  
+- Projects: Incident Reporting System, Portfolio Builder, ML-based Classifier
+## 🛠️ Platform & Specialized Credentials
+
+**Cloud & Infrastructure:**
+[![Terraform Associate](https://img.shields.io/badge/HashiCorp-Terraform_Associate-7B42BC?logo=terraform&logoColor=white)](https://www.credly.com/...)
+[![Docker Certified Associate](https://img.shields.io/badge/Docker-Certified_Associate-2496ED?logo=docker&logoColor=white)](https://www.credly.com/...)
+
+**Performance & Quality:**
+[![Testing JavaScript Certified](https://img.shields.io/badge/TestingJS-Professional-CC3534?logo=jest&logoColor=white)](https://testingjavascript.com/certificates/...)
+[![Scrum Master I](https://img.shields.io/badge/Scrum.org-PSM_I-2AA8B0)](https://www.scrum.org/...)
+## 📜 Certifications & Credentials
+
+- [![AWS Certified Developer – Associate](https://img.shields.io/badge/AWS-Developer_Associate-FF9900?logo=amazonaws&logoColor=white)](https://www.credly.com/badges/...)
+- [![Next.js Certified](https://img.shields.io/badge/Next.js-Certified-000000?logo=next.js&logoColor=white)](https://vercel.com/certification/...)
+- [![Meta Front-End Developer](https://img.shields.io/badge/Meta-Front_End_Developer-0467DF?logo=react&logoColor=white)](https://coursera.org/verify/...)
+- [![Google Cloud Associate Cloud Engineer](https://img.shields.io/badge/Google_Cloud-Cloud_Engineer-4285F4?logo=googlecloud&logoColor=white)](https://www.credential.net/...)
+
 
 ---
 
 ### 🚀 Projects
 - **Incident Reporting System** — Full-stack platform for secure and real-time reporting (React + Flask + MySQL).  
 - **AI Portfolio Generator** — Dynamic tool that builds portfolio pages using GPT and React.  
-- **Excel Marks Entry System (VBA)** — Role-based grading automation with data visualization.  
+- **Serveless Image Processing Pipeline** — Serverless image pipeline: S3 event triggers Lambda-driven, Step Functions-orchestrated transformations.   
 
 ---
 
