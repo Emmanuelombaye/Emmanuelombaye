@@ -19,7 +19,7 @@
 ---
 
 ### 🧠 About Me
-I'm a passionate **Computer Science graduate** from **Maseno University (2025)** based in **Nairobi, Kenya** 🇰🇪.  
+I'm a passionate **Computer Science graduate** from **Maseno University ** based in **Nairobi, Kenya** 🇰🇪.  
 I love crafting intelligent and beautiful web applications, exploring AI-driven innovations, and turning data into insight.  
 When I’m not coding, you’ll find me learning new frameworks, freelancing on remote platforms, or working on automation tools that make life simpler.
 
