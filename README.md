@@ -170,22 +170,6 @@ Maseno University, Kenya
 | **cloud-architecture-patterns** | `3 weeks ago` | ★ 256 | 67 |
 
 ### 🐍 Activity Tracker
-<p align="center">
-  <svg width="700" height="120" xmlns="http://www.w3.org/2000/svg">
-    <!-- Grid background -->
-    <rect x="0" y="0" width="700" height="120" fill="#0d1117" />
-    <!-- Animated snake path -->
-    <path d="M20,60 C80,10 150,110 220,60 C290,10 360,110 430,60 C500,10 570,110 640,60" 
-          stroke="#2ea043" stroke-width="4" fill="none">
-      <animate attributeName="stroke-dashoffset" from="0" to="100" dur="3s" repeatCount="indefinite"/>
-    </path>
-    <!-- Data points -->
-    <circle cx="150" cy="110" r="4" fill="#39d353"/>
-    <circle cx="300" cy="10" r="4" fill="#26a641"/>
-    <circle cx="450" cy="90" r="4" fill="#006d32"/>
-  </svg>
-</p>
-
----
+<p align="center"> <div style="position: relative; background: #0d1117; padding: 20px; border-radius: 8px;"> <!-- Grid Background --> <div style="display: grid; grid-template-columns: repeat(53, 1fr); gap: 3px; width: 100%; height: 120px;"> <!-- Generate 371 squares with varying intensities --> <div style="background: #161b22; border-radius: 2px;"></div> <div style="background: #0e4429; border-radius: 2px;"></div> <div style="background: #006d32; border-radius: 2px;"></div> <div style="background: #26a641; border-radius: 2px;"></div> <div style="background: #39d353; border-radius: 2px;"></div> </div> <!-- Animated Scan Line --> <div style="position: absolute; top: 0; left: 0; width: 100%; height: 2px; background: linear-gradient(90deg, transparent, #2ea043, transparent); animation: scan 4s ease-in-out infinite;"></div> </div> </p><style> @keyframes scan { 0% { top: 0; opacity: 0.3; } 50% { top: 100%; opacity: 0.8; } 100% { top: 0; opacity: 0.3; } } </style>
 
 ⭐ **"Building the future, one line of code at a time."**
