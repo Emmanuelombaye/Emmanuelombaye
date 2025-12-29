@@ -8,8 +8,15 @@
 
 <!-- Typing Intro -->
 <h1 align="center">
-  <img src="https://em-content.zobj.net/thumbs/240/apple/354/waving-hand_1f44b.png" width="40px"> Hi, I'm Emmanuel Okari!
+  Emmanuel Okari
 </h1>
+<div align="center">
+  <img src="https://img.shields.io/badge/Senior_Engineer-Architectural_Design-2d79c7?style=for-the-badge&logo=arc" alt="Senior Engineer" />
+  <img src="https://img.shields.io/badge/Cloud_First-AWS%2FGCP%2FAzure-FF9900?style=for-the-badge&logo=amazonaws" alt="Cloud First" />
+</div>
+<p align="center">
+  <i>Developing resilient, production-grade software systems</i>
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
