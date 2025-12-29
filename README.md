@@ -141,11 +141,11 @@ Maseno University, Kenya
 ![Longest Streak](https://img.shields.io/badge/Longest%20Streak-128%20days-red)
 
 ### 💻 Top Languages (By Usage)
-![JavaScript](https://img.shields.io/badge/JavaScript-45%25-yellow?logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-25%25-blue?logo=typescript)
-![Python](https://img.shields.io/badge/Python-15%25-green?logo=python)
-![Go](https://img.shields.io/badge/Go-8%25-00ADD8?logo=go)
-![Other](https://img.shields.io/badge/Other-7%25-lightgrey)
+![JavaScript](https://img.shields.io/badge/JavaScript-85%25-yellow?logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-90%25-blue?logo=typescript)
+![Python](https://img.shields.io/badge/Python-90%25-green?logo=python)
+![Go](https://img.shields.io/badge/Go-85%25-00ADD8?logo=go)
+![Other](https://img.shields.io/badge/Other-27%25-lightgrey)
 
 ### 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=true&row=2&column=4)
