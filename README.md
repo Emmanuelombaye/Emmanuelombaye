@@ -172,22 +172,24 @@ Maseno University, Kenya
 ### 📊 Activity Tracker
 <p align="center">
   <div style="position: relative; background: #0d1117; padding: 20px; border-radius: 8px; overflow: hidden; min-height: 140px;">
-    <!-- Static grid pattern -->
-    <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(12px, 1fr)); gap: 3px; height: 100px;">
-      <div style="background: #161b22;"></div><div style="background: #0e4429;"></div><div style="background: #006d32;"></div><div style="background: #26a641;"></div><div style="background: #39d353;"></div>
-      <div style="background: #161b22;"></div><div style="background: #0e4429;"></div><div style="background: #006d32;"></div><div style="background: #26a641;"></div><div style="background: #39d353;"></div>
-      <div style="background: #161b22;"></div><div style="background: #0e4429;"></div><div style="background: #006d32;"></div><div style="background: #26a641;"></div><div style="background: #39d353;"></div>
-      <div style="background: #161b22;"></div><div style="background: #0e4429;"></div><div style="background: #006d32;"></div><div style="background: #26a641;"></div><div style="background: #39d353;"></div>
-      <div style="background: #161b22;"></div><div style="background: #0e4429;"></div><div style="background: #006d32;"></div><div style="background: #26a641;"></div><div style="background: #39d353;"></div>
+    
+    <!-- Static grid squares -->
+    <div style="display: grid; grid-template-columns: repeat(20, 1fr); gap: 3px; height: 100px;">
+      <!-- Copy this line to create more squares -->
+      <div style="background: #161b22; border-radius: 2px;"></div>
+      <div style="background: #0e4429; border-radius: 2px;"></div>
+      <div style="background: #006d32; border-radius: 2px;"></div>
+      <div style="background: #26a641; border-radius: 2px;"></div>
+      <div style="background: #39d353; border-radius: 2px;"></div>
+      <!-- Add more divs here -->
     </div>
     
-    <!-- Animated scan line - NO EXTERNAL CSS -->
+    <!-- Your animation code (paste it here) -->
     <div style="position: absolute; top: 0; left: -100%; width: 100%; height: 100%;
                 background: linear-gradient(90deg, transparent, rgba(46, 160, 67, 0.15), transparent);
                 animation: slide 3s linear infinite;
                 animation-timing-function: linear;"></div>
     
-    <!-- CSS directly in style attribute -->
     <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; pointer-events: none;
                 background: linear-gradient(90deg, 
                   rgba(46, 160, 67, 0) 0%, 
@@ -197,6 +199,7 @@ Maseno University, Kenya
                 background-position: -100% 0;
                 animation: wave 2s ease-in-out infinite;
                 animation-delay: 1s;"></div>
+    
   </div>
 </p>
 
