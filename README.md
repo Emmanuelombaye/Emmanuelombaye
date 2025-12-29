@@ -169,9 +169,21 @@ Maseno University, Kenya
 | **real-time-dashboard** | `1 week ago` | ★ 89 | 21 |
 | **cloud-architecture-patterns** | `3 weeks ago` | ★ 256 | 67 |
 
-### 🐍 Dynamic Snake Animation
+### 🐍 Activity Tracker
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Emmanuel-Okari/Emmanuel-Okari/output/github-contribution-grid-snake.svg" alt="snake" />
+  <svg width="700" height="120" xmlns="http://www.w3.org/2000/svg">
+    <!-- Grid background -->
+    <rect x="0" y="0" width="700" height="120" fill="#0d1117" />
+    <!-- Animated snake path -->
+    <path d="M20,60 C80,10 150,110 220,60 C290,10 360,110 430,60 C500,10 570,110 640,60" 
+          stroke="#2ea043" stroke-width="4" fill="none">
+      <animate attributeName="stroke-dashoffset" from="0" to="100" dur="3s" repeatCount="indefinite"/>
+    </path>
+    <!-- Data points -->
+    <circle cx="150" cy="110" r="4" fill="#39d353"/>
+    <circle cx="300" cy="10" r="4" fill="#26a641"/>
+    <circle cx="450" cy="90" r="4" fill="#006d32"/>
+  </svg>
 </p>
 
 ---
