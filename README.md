@@ -128,7 +128,7 @@ Maseno University, Kenya
 
 ---
 
-## 📊 GitHub Analytics (Static Snapshot)
+## 📊 GitHub Analytics 
 
 ### 🧮 Profile Metrics
 ![Profile Views](https://Emmanuelombaye.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square)
