@@ -169,29 +169,27 @@ Maseno University, Kenya
 | **real-time-dashboard** | `1 week ago` | ★ 89 | 21 |
 | **cloud-architecture-patterns** | `3 weeks ago` | ★ 256 | 67 |
 
-### 🐍 Activity Tracker
+### 📊 Activity Visualization
 <p align="center">
   <div style="position: relative; background: #0d1117; padding: 20px; border-radius: 8px; overflow: hidden;">
-    <!-- Grid Background -->
-    <div style="display: grid; grid-template-columns: repeat(53, 1fr); gap: 3px; width: 100%; height: 120px;">
-      <!-- Minimal grid pattern -->
+    <!-- The grid - completely static -->
+    <div style="display: grid; grid-template-columns: repeat(20, 1fr); gap: 4px; width: 100%; height: 100px;">
+      <!-- Copy and paste this line 100 times to fill grid -->
       <div style="background: #161b22; border-radius: 2px;"></div>
-      <div style="background: #0e4429; border-radius: 2px;"></div>
-      <div style="background: #006d32; border-radius: 2px;"></div>
-      <div style="background: #26a641; border-radius: 2px;"></div>
-      <div style="background: #39d353; border-radius: 2px;"></div>
-      <!-- Repeat more squares as needed -->
     </div>
-    <!-- Animated Scan Line -->
-    <div style="position: absolute; top: 0; left: 0; width: 100%; height: 2px; background: linear-gradient(90deg, transparent, #2ea043, transparent); animation: scan 4s ease-in-out infinite;"></div>
+    
+    <!-- Animated overlay using CSS gradient animation -->
+    <div style="position: absolute; top: 0; left: -100%; width: 100%; height: 100%; 
+                background: linear-gradient(90deg, transparent, rgba(46, 160, 67, 0.1), transparent);
+                animation: slide 4s infinite linear;"></div>
   </div>
 </p>
 
+<!-- CSS Animation -->
 <style>
-  @keyframes scan {
-    0% { top: 0; opacity: 0.3; }
-    50% { top: 100%; opacity: 0.8; }
-    100% { top: 0; opacity: 0.3; }
+  @keyframes slide {
+    0% { left: -100%; }
+    100% { left: 100%; }
   }
 </style>
 ⭐ **"Building the future, one line of code at a time."**
