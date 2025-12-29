@@ -119,12 +119,16 @@ Maseno University, Kenya
 
 ---
 
-### 📰 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### 📝 Technical Publications
 
-> *These posts update automatically every few hours. Published via [Dev.to](https://dev.to/) or [Medium](https://medium.com/).*
+**Recent Engineering Articles**
 
+• **Production-Grade Event-Driven Architecture** – *Dev.to* – Dec 2025  
+• **Kubernetes Cost Management for Engineering Teams** – *Medium* – Nov 2025  
+• **Implementing DDD in Microservices: Lessons from Production** – *Personal Blog* – Oct 2023  
+• **Advanced TypeScript Patterns for Enterprise Applications** – *Dev.to* – Sep 2024  
+
+*View complete writing portfolio at: [okariokinyi.com/archive](https://okariokinyi.com/archive)*
 ---
 
 ### 🌍 Connect with Me
